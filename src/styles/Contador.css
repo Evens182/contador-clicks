@@ -1,0 +1,24 @@
+.contador{
+    min-width: 300px;
+    min-height: 400px;
+    font-size: 300px;
+    padding: 25px;
+    color:antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+h1{
+    text-align: center;
+    max-width: 300px;
+    font-size: 4em; /*Factor de tamaño relativo al contenedor*/
+    font-family: Lato, sans-serif;
+    font-weight: 800; 
+    line-height: 1.1; /*separación entre lineas*/
+    margin: 5px 0; /*margem superior e inferior y margen dercho e izquierdo*/
+    color: #fefefe;
+}
